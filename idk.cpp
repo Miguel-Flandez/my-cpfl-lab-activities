@@ -4,8 +4,8 @@ using namespace std;
 
 int main(){
 
-    cout<<"idk";
+    cout<<"idk1";
 
     return 0;
-    
+
 }
